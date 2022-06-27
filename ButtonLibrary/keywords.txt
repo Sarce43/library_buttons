@@ -1,0 +1,6 @@
+ButtonLibrary	KEYWORD1
+Button	KEYWORD2
+pressed	KEYWORD2
+released	KEYWORD2
+getStateButton	KEYWORD2
+setDebounceTime	KEYWORD2
