@@ -1,0 +1,19 @@
+Algoritmo "semnome"
+Var
+T: vetor[1..15] de inteiro
+x, fat, num: inteiro
+//Fat: real
+
+Inicio
+fat:= 1
+para x de 1 até 15 faça
+Escreva("Digite o", x ," valor:")
+leia(T[x])
+fimPara
+
+para x de 1 até 15 faça
+fat:= fat * T[x]
+
+Escreval(fat)
+fimPara
+FimAlgoritmo
